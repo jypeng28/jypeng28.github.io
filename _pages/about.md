@@ -42,7 +42,7 @@ Also co-advised by Dr. **Fuli Feng** in National University of Singapore -->
 Meta-learned ID Embeddings for Online Inductive Recommendation\\
 **Jingyu Peng**,  Le Wu, Peijie Sun & Meng Wang \\
 *In China Conference on Information Retrieval 2021* \\
-[PDF](https://link.springer.com/chapter/10.1007/978-3-030-88189-4_3)]
+[[PDF]](https://link.springer.com/chapter/10.1007/978-3-030-88189-4_3)
 
 
 
