@@ -45,7 +45,19 @@ Meta-learned ID Embeddings for Online Inductive Recommendation\\
 [[PDF]](https://link.springer.com/chapter/10.1007/978-3-030-88189-4_3)
 
 
+## Experience
 
+### Internship
+## Alipay
++ Participate in the development of [Ray](https://www.ray.io/) core.
++ Participate in the development of [Mars](https://docs.pymars.org/en/latest/).
++ Test the efficiency of several ML algorithms on Mars & Ray
+<span style="float:right;">June. 2021 - Aug. 2021</span>
+
+## IFLYTEK
++ Responsible for the research of Job Competency Perception Diagnosis.
++ Participate in the construction of dataset.
+<span style="float:right;">May. 2022 - Now</span>
 
 <!-- ## Services
 * Program Committee: CIKM (2021-2022)
