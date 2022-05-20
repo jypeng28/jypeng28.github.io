@@ -11,7 +11,7 @@ redirect_from:
 
 ## Bio
 
-I am currently an fourth-year undergraduate student at HFUT in School of Computer Science and Information Engineering, advised by Prof. Le Wu. I will join USTC CS as a M.S. candidate, advised by Prof. Qi Liu.
+I am currently an fourth-year undergraduate student at [Hefei University of Technology(HFUT)](http://www.hfut.edu.cn) in School of Computer Science and Information Engineering, advised by Prof. [Le Wu](http://le-wu.com). I will join USTC CS as a M.S. candidate, advised by Prof. [Qi Liu](http://staff.ustc.edu.cn/~qiliuql/).
 
 Techniques that I'm interested in (but not limited to) are **Data Mining**, **RS**, and **Trustworthy ML**
 
@@ -42,7 +42,7 @@ Also co-advised by Dr. **Fuli Feng** in National University of Singapore -->
 Meta-learned ID Embeddings for Online Inductive Recommendation\\
 **Jingyu Peng**,  Le Wu, Peijie Sun & Meng Wang \\
 *In China Conference on Information Retrieval 2021* \\
-[[PDF](https://link.springer.com/chapter/10.1007/978-3-030-88189-4_3)]
+[PDF](https://link.springer.com/chapter/10.1007/978-3-030-88189-4_3)]
 
 
 
