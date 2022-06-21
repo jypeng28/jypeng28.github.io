@@ -44,22 +44,20 @@ Meta-learned ID Embeddings for Online Inductive Recommendation\\
 *In China Conference on Information Retrieval 2021* \\
 [[PDF]](https://link.springer.com/chapter/10.1007/978-3-030-88189-4_3)
 
-
-## Experience
-
-### Internship
-## Alipay
+## Internship
+### Alipay
 + Participate in the development of [Ray](https://www.ray.io/) core.
 + Participate in the development of [Mars](https://docs.pymars.org/en/latest/).
 + Test the efficiency of several ML algorithms on Mars & Ray
 <span style="float:right;">June. 2021 - Aug. 2021</span>
 
-## IFLYTEK
+### IFLYTEK
 + Responsible for the research of Job Competency Perception Diagnosis.
 + Participate in the construction of dataset.
 <span style="float:right;">May. 2022 - Now</span>
 
-### Competitions
+## Competitions
+### U.S. Patent Phrase to Phrase Matching
 + It's my first time to participate in Kaggle competition. I got a silver medal in [**U.S. Patent Phrase to Phrase Matching**](https://www.kaggle.com/competitions/us-patent-phrase-to-phrase-matching) with teammate Zheng Gong. The [solution](https://github.com/jypeng28/Kaggle_Patent) is available.
 <span style="float:right;">May. 2022</span>
 
