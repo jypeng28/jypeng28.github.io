@@ -59,6 +59,11 @@ Meta-learned ID Embeddings for Online Inductive Recommendation\\
 + Participate in the construction of dataset.
 <span style="float:right;">May. 2022 - Now</span>
 
+### Competitions
++ It's my first time to participate in Kaggle competition. I got a silver medal in [**U.S. Patent Phrase to Phrase Matching**](https://www.kaggle.com/competitions/us-patent-phrase-to-phrase-matching) with teammate Zheng Gong. The [solution](https://github.com/jypeng28/Kaggle_Patent) is available.
+<span style="float:right;">May. 2022</span>
+
+
 <!-- ## Services
 * Program Committee: CIKM (2021-2022)
 
