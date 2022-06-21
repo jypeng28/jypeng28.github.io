@@ -11,7 +11,7 @@ redirect_from:
 
 ## Bio
 
-I am currently an fourth-year undergraduate student at [Hefei University of Technology(HFUT)](http://www.hfut.edu.cn) in School of Computer Science and Information Engineering, advised by Prof. [Le Wu](http://le-wu.com). I will join USTC CS as a M.S. candidate, advised by Prof. [Qi Liu](http://staff.ustc.edu.cn/~qiliuql/).
+I am currently postgraduate student at [University of Science and Technology of China(USTC)](https://www.ustc.edu.cn) in School of Computer Science Technology, advised by Prof. [Qi Liu](http://staff.ustc.edu.cn/~qiliuql/). Before that, I graduated from Hefei University of Technology(HFUT), advised by Prof. [Le Wu](http://le-wu.com).
 
 Techniques that I'm interested in (but not limited to) are **Data Mining**, **RS**, and **Trustworthy ML**
 
@@ -58,9 +58,12 @@ Meta-learned ID Embeddings for Online Inductive Recommendation\\
 
 ## Competitions
 ### U.S. Patent Phrase to Phrase Matching
-+ It's my first time to participate in Kaggle competition. I got a silver medal in [**U.S. Patent Phrase to Phrase Matching**](https://www.kaggle.com/competitions/us-patent-phrase-to-phrase-matching) with teammate Zheng Gong. The [solution](https://github.com/jypeng28/Kaggle_Patent) is available.
++ It's my first time to participate in Kaggle competition. I got a silver medal in [**U.S. Patent Phrase to Phrase Matching**](https://www.kaggle.com/competitions/us-patent-phrase-to-phrase-matching) with my teammate Zheng Gong. The [solution](https://github.com/jypeng28/Kaggle_Patent) is available.
 <span style="float:right;">May. 2022</span>
 
+## Awards
+Awarded as Outstanding Graduate in HFUT.
+<span style="float:right;">June. 2022</span>
 
 <!-- ## Services
 * Program Committee: CIKM (2021-2022)
