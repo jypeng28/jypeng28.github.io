@@ -54,7 +54,7 @@ Meta-learned ID Embeddings for Online Inductive Recommendation\\
 ### IFLYTEK
 + Responsible for the research of Job Competency Perception Diagnosis.
 + Participate in the construction of dataset.
-<span style="float:right;">May. 2022 - Now</span>
+<span style="float:right;">May. 2022 - Jul. 2022</span>
 
 ## Competitions
 ### U.S. Patent Phrase to Phrase Matching
@@ -88,18 +88,9 @@ Working Paper 2020
 Advisor: Prof. Yizhou Sun & Prof. Wei Wang
 
 
-Zero parallel corpus Multimodal neural machine translation method. 		         <span style="float:right;">Number: CN110245364A</span>  
-Enhong Chen, Qi Liu, Yijun Wang, **Tianxin Wei**
-
-A meta-learning recommendation method for cold-start users.                                             <span style="float:right;">Being Processed</span>  
-Xiangnan He, **Tianxin Wei**, Ziwei Wu, Fuli Feng
-
-Mitigating popularity bias in recommendation system via causal inference                       <span style="float:right;">Being Processed</span>  
-Xiangnan He, **Tianxin Wei**, Fuli Feng, Jiawei Chen, Jinfeng Yi -->
-
 
 ## Miscellaneous
-I love extreme sports including Motorcycle(I have a KAWASAKI Ninja 250), Car Racing and Snowboarding(I fly to Xinjiang annually).
+I love extreme sports including Motorcycle, Car Racing and Snowboarding.
 
 
 
