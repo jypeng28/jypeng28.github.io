@@ -44,11 +44,15 @@ Meta-learned ID Embeddings for Online Inductive Recommendation\\
 *In China Conference on Information Retrieval 2021* \\
 [[PDF]](https://link.springer.com/chapter/10.1007/978-3-030-88189-4_3)
 
+Beyond Homophily: Robust Graph Anomaly Detection via Neural Sparsification\\
+*The 32nd International Joint Conference on Artificial Intelligence (IJCAI-23)* \\
+*To Be Published*
+
 ## Internship
 ### Alipay
 + Participate in the development of [Ray](https://www.ray.io/) core.
 + Participate in the development of [Mars](https://docs.pymars.org/en/latest/).
-+ Test the efficiency of several ML algorithms on Mars & Ray
++ Study the operating efficiency of various machine learning algorithms(XGBoost, Lightgbm) on Mars & Ray
 <span style="float:right;">June. 2021 - Aug. 2021</span>
 
 ### IFLYTEK
