@@ -19,21 +19,6 @@ Techniques that I'm interested in (but not limited to) are **Data Mining**, **RS
 ## Education
 Computer Science, School of Computer Science and Information Engineering, Hefei University of Technology (HFUT) <span style="float:right;">July. 2018-2022</span>
 
-<!-- # Research Experience
-
-
-Visiting scholar in Prof. **Wei Wang** & **Yizhou Sun**’s group <span style="float:right;">July. 2019 - Sept.2019</span>  
-Department of Computer Science, University of California, Los Angeles, USA 
-
-Remote research intern in Prof. **Zhangyang Wang**’s group  	                                          <span style="float:right;">May. 2020 – Present</span>  
-Department of Electrical & Computer Engineering, University of Texas at Austin, USA
-
-Remote intern advised by Dr. **Ruirui Li** and Dr. **Oguz Elibol** in Amazon Alexa Group  	                            <span style="float:right;">Aug. 2020 – Present</span>
-
-Research intern advised by Prof. **Xiangnan He**             <span style="float:right;">March. 2019 – Present</span>   
-Department of Data Science, USTC, China  
-Also co-advised by Dr. **Fuli Feng** in National University of Singapore -->
-
 
 
 ## Publications
@@ -68,30 +53,6 @@ Beyond Homophily: Robust Graph Anomaly Detection via Neural Sparsification\\
 ## Awards
 Awarded as Outstanding Graduate in HFUT.
 <span style="float:right;">June. 2022</span>
-
-<!-- ## Services
-* Program Committee: CIKM (2021-2022)
-
-* Reviewer: ICML 2022, NeurIPS 2022
-
-* Journal Reviewer: TOIS, TKDE -->
-
-<!-- 
-# Working Projects
-
-**Conversational Gradient Recommendation**  
-Working Paper 2021
-Advisor: Prof. X
-
-**Adversarial Training Method for Robustness in Natural Language Processing**  
-Working Paper 2020
-Advisor: Prof. Zhangyang Wang
-
-**Automated Meta-path Discovery on Large-scale Knowledge Graph via Meta-learning**  
-Working Paper 2020
-Advisor: Prof. Yizhou Sun & Prof. Wei Wang
-
-
 
 ## Miscellaneous
 I love extreme sports including Motorcycle, Car Racing and Snowboarding.
