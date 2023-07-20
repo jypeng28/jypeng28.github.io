@@ -24,14 +24,16 @@ Computer Science, School of Computer Science and Information Engineering, Hefei 
 ## Publications
 
 ### Conferences
-Meta-learned ID Embeddings for Online Inductive Recommendation\\
+Meta-learned ID Embeddings for Online Inductive Recommendation \\
 **Jingyu Peng**,  Le Wu, Peijie Sun & Meng Wang \\
 *In China Conference on Information Retrieval 2021* \\
 [[PDF]](https://link.springer.com/chapter/10.1007/978-3-030-88189-4_3)
 
 Beyond Homophily: Robust Graph Anomaly Detection via Neural Sparsification\\
+Zheng Gong, Guifeng Wang, Ying Sun, Qi Liu, Yuting Ning, Hui Xiong, **Jingyu Peng** \\
 *The 32nd International Joint Conference on Artificial Intelligence (IJCAI-23)* \\
 *To Be Published*
+
 
 ## Internship
 ### Alipay
@@ -53,6 +55,9 @@ Beyond Homophily: Robust Graph Anomaly Detection via Neural Sparsification\\
 ## Awards
 Awarded as Outstanding Graduate in HFUT.
 <span style="float:right;">June. 2022</span>
+
+Awarded First Class Scholarship in USTC.
+<span style="float:right;">Sep. 2022</span>
 
 ## Miscellaneous
 I love extreme sports including Motorcycle, Car Racing and Snowboarding.
