@@ -24,6 +24,11 @@ Computer Science, School of Computer Science and Information Engineering, Hefei 
 ## Publications
 
 ### Conferences
+
+Towards Few-shot Self-explaining Graph Neural Networks \\
+**Peng, Jingyu**, Liu, Qi, Yue, Linan, Zhang, Zaixi, Zhang, Kai and Sha, Yunhao \\
+*Joint European Conference on Machine Learning and Knowledge Discovery in Databases 2024 (CCF-B)*
+
 Meta-learned ID Embeddings for Online Inductive Recommendation \\
 **Jingyu Peng**,  Le Wu, Peijie Sun & Meng Wang \\
 *In China Conference on Information Retrieval 2021* \\
