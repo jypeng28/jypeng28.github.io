@@ -57,6 +57,9 @@ Zheng Gong, Guifeng Wang, Ying Sun, Qi Liu, Yuting Ning, Hui Xiong, **Jingyu Pen
 + It's my first time to participate in Kaggle competition. I got a silver medal in [**U.S. Patent Phrase to Phrase Matching**](https://www.kaggle.com/competitions/us-patent-phrase-to-phrase-matching) with my teammate Zheng Gong. The [solution](https://github.com/jypeng28/Kaggle_Patent) is available.
 <span style="float:right;">May. 2022</span>
 
+### Optiver Trading at the Close
++ Silver medal (top 2%)
+
 ## Awards
 Awarded as Outstanding Graduate in HFUT.
 <span style="float:right;">June. 2022</span>
