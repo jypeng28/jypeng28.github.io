@@ -11,7 +11,7 @@ redirect_from:
 
 ## Bio
 
-I am currently postgraduate student at [University of Science and Technology of China(USTC)](https://www.ustc.edu.cn) in School of Computer Science Technology, advised by Prof. [Qi Liu](http://staff.ustc.edu.cn/~qiliuql/). Before that, I graduated from Hefei University of Technology(HFUT), advised by Prof. [Le Wu](http://le-wu.com).
+I am currently a joint PhD student at [University of Science and Technology of China(USTC)](https://www.ustc.edu.cn) and [City University of Hong Kong(CityU)](https://www.cityu.edu.hk/), advised by Prof. [Qi Liu](http://staff.ustc.edu.cn/~qiliuql/) and Prof. [Xiangyu Zhao](https://zhaoxyai.github.io/) . Before that, I graduated from Hefei University of Technology(HFUT), advised by Prof. [Le Wu](http://le-wu.com).
 
 Techniques that I'm interested in (but not limited to) are **Data Mining**, **RS**, and **Trustworthy ML**
 
