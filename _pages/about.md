@@ -13,12 +13,23 @@ redirect_from:
 
 I am currently a joint PhD student at [University of Science and Technology of China(USTC)](https://www.ustc.edu.cn) and [City University of Hong Kong(CityU)](https://www.cityu.edu.hk/), advised by Prof. [Qi Liu](http://staff.ustc.edu.cn/~qiliuql/) and Prof. [Xiangyu Zhao](https://zhaoxyai.github.io/) . Before that, I graduated from Hefei University of Technology(HFUT), advised by Prof. [Le Wu](http://le-wu.com).
 
-Techniques that I'm interested in (but not limited to) are **Data Mining**, **RS**, and **Trustworthy ML**
+Research areas that I'm interested in (but not limited to) are **Large Language Model**, **Recommender System**, and **Trustworthy ML**
+
 
 
 ## Education
-Computer Science, School of Computer Science and Information Engineering, Hefei University of Technology (HFUT) <span style="float:right;">July. 2018-2022</span>
 
+**PhD in Data Science**  
+*Department of Data Science, City University of Hong Kong (CityU)*  
+<span style="float:right;">Sep. 2024 – Now</span>
+
+**Master's in Computer Technology**  
+*School of Computer Science, University of Science and Technology of China (USTC)*  
+<span style="float:right;">Sep. 2022 – July. 2025 (expected)</span>
+
+**Bachelor's in Computer Science**  
+*School of Computer Science and Information Engineering, Hefei University of Technology (HFUT)*  
+<span style="float:right;">Sep. 2018 – July. 2022</span>
 
 
 ## Publications
@@ -28,6 +39,7 @@ Computer Science, School of Computer Science and Information Engineering, Hefei 
 Towards Few-shot Self-explaining Graph Neural Networks \\
 **Peng, Jingyu**, Liu, Qi, Yue, Linan, Zhang, Zaixi, Zhang, Kai and Sha, Yunhao \\
 *Joint European Conference on Machine Learning and Knowledge Discovery in Databases 2024 (CCF-B)*
+[[PDF]](https://dl.acm.org/doi/abs/10.1007/978-3-031-70365-2_7)
 
 Meta-learned ID Embeddings for Online Inductive Recommendation \\
 **Jingyu Peng**,  Le Wu, Peijie Sun & Meng Wang \\
@@ -37,10 +49,15 @@ Meta-learned ID Embeddings for Online Inductive Recommendation \\
 Beyond Homophily: Robust Graph Anomaly Detection via Neural Sparsification\\
 Zheng Gong, Guifeng Wang, Ying Sun, Qi Liu, Yuting Ning, Hui Xiong, **Jingyu Peng** \\
 *The 32nd International Joint Conference on Artificial Intelligence (IJCAI-23)* \\
-*To Be Published*
+[[PDF]](https://www.ijcai.org/proceedings/2023/0234.pdf)
 
 
 ## Internship
+### Alibaba-Inc
++ Conduct research on multimodal recommendation algorithms on [Goofish(闲鱼)](https://www.goofish.com) platform.
++ Conduct research on holistic modeling methods for product UI in search interfaces.
+<span style="float:right;">June. 2024 - Sep. 2024</span>
+
 ### Alipay
 + Participate in the development of [Ray](https://www.ray.io/) core.
 + Participate in the development of [Mars](https://docs.pymars.org/en/latest/).
