@@ -82,7 +82,7 @@ Awarded as Outstanding Graduate in HFUT.
 <span style="float:right;">June. 2022</span>
 
 Awarded First Class Scholarship in USTC.
-<span style="float:right;">Sep. 2022</span>
+<span style="float:right;">Sep. 2024, Sep. 2022</span>
 
 ## Miscellaneous
 I love extreme sports including Motorcycle, Car Racing and Snowboarding.
