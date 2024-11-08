@@ -37,7 +37,7 @@ Research areas that I'm interested in (but not limited to) are **Large Language 
 ### Conferences
 
 Towards Few-shot Self-explaining Graph Neural Networks \\
-**Peng, Jingyu**, Liu, Qi, Yue, Linan, Zhang, Zaixi, Zhang, Kai and Sha, Yunhao \\
+**Jingyu Peng**, Qi Liu, Linan Yue, Zaixi Zhang, Kai Zhang and Yunhao Sha \\
 *Joint European Conference on Machine Learning and Knowledge Discovery in Databases 2024 (CCF-B)*
 [[PDF]](https://dl.acm.org/doi/abs/10.1007/978-3-031-70365-2_7)
 
