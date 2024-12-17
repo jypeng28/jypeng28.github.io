@@ -35,10 +35,14 @@ Research areas that I'm interested in (but not limited to) are **Large Language 
 ## Publications
 
 ### Conferences
+Stepwise Reasoning Error Disruption Attack of LLMs \\
+**Jingyu Peng**, Maolin Wang, Xiangyu Zhao, Kai Zhang, Wanyu Wang, Pengyue Jia, Qidong Liu, Ruocheng Guo, Qi Liu \\
+*preprint* \\
+[[PDF]](https://arxiv.org/pdf/2412.11934)
 
 Towards Few-shot Self-explaining Graph Neural Networks \\
 **Jingyu Peng**, Qi Liu, Linan Yue, Zaixi Zhang, Kai Zhang and Yunhao Sha \\
-*Joint European Conference on Machine Learning and Knowledge Discovery in Databases 2024 (CCF-B)*
+*Joint European Conference on Machine Learning and Knowledge Discovery in Databases 2024 (CCF-B)* \\
 [[PDF]](https://dl.acm.org/doi/abs/10.1007/978-3-031-70365-2_7)
 
 Meta-learned ID Embeddings for Online Inductive Recommendation \\
