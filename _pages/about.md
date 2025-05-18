@@ -52,7 +52,7 @@ Towards Few-shot Self-explaining Graph Neural Networks \\
 
 Meta-learned ID Embeddings for Online Inductive Recommendation \\
 **Jingyu Peng**,  Le Wu, Peijie Sun & Meng Wang \\
-*In China Conference on Information Retrieval 2021* \\
+*China Conference on Information Retrieval 2021* \\
 [[PDF]](https://link.springer.com/chapter/10.1007/978-3-030-88189-4_3)
 
 Beyond Homophily: Robust Graph Anomaly Detection via Neural Sparsification\\
