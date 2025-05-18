@@ -35,9 +35,14 @@ Research areas that I'm interested in (but not limited to) are **Large Language 
 ## Publications
 
 ### Conferences
+Logic Jailbreak: Efficiently Unlocking LLM Safety Restrictions Through Formal Logical Expression \\
+**Jingyu Peng**, Maolin Wang, Nan Wang, Xiangyu Zhao, Jiatong Li, Kai Zhang, Qi Liu \\
+*preprint*
+
+
 Stepwise Reasoning Error Disruption Attack of LLMs \\
 **Jingyu Peng**, Maolin Wang, Xiangyu Zhao, Kai Zhang, Wanyu Wang, Pengyue Jia, Qidong Liu, Ruocheng Guo, Qi Liu \\
-*preprint* \\
+*The 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025), Main* \\
 [[PDF]](https://arxiv.org/pdf/2412.11934)
 
 Towards Few-shot Self-explaining Graph Neural Networks \\
