@@ -13,14 +13,14 @@ redirect_from:
 
 I am currently a joint PhD student at [University of Science and Technology of China(USTC)](https://www.ustc.edu.cn) and [City University of Hong Kong(CityU)](https://www.cityu.edu.hk/), advised by Prof. [Qi Liu](http://staff.ustc.edu.cn/~qiliuql/) and Prof. [Xiangyu Zhao](https://zhaoxyai.github.io/) . Before that, I graduated from Hefei University of Technology(HFUT), advised by Prof. [Le Wu](http://le-wu.com).
 
-Research areas that I'm interested in (but not limited to) are **Large Language Model**, **Recommender System**, and **Trustworthy ML**
+Research areas that I'm interested in (but not limited to) are **Trustworthy Large Language Model**, **Retrieval-Augmented Generation** and **Recommender System**
 
 
 
 ## Education
 
 **PhD in Data Science**  
-*Department of Data Science, City University of Hong Kong (CityU)*  
+*Department of Data Science, City University of Hong Kong (CityU HK)*  
 <span style="float:right;">Sep. 2024 – Now</span>
 
 **Master's in Computer Technology**  
@@ -34,10 +34,12 @@ Research areas that I'm interested in (but not limited to) are **Large Language 
 
 ## Publications
 
-### Conferences
+### Preprint
 Logic Jailbreak: Efficiently Unlocking LLM Safety Restrictions Through Formal Logical Expression \\
 **Jingyu Peng**, Maolin Wang, Nan Wang, Xiangyu Zhao, Jiatong Li, Kai Zhang, Qi Liu \\
 [[PDF]](https://arxiv.org/pdf/2505.13527)
+
+### Conferences
 
 
 Stepwise Reasoning Error Disruption Attack of LLMs \\
@@ -62,9 +64,13 @@ Zheng Gong, Guifeng Wang, Ying Sun, Qi Liu, Yuting Ning, Hui Xiong, **Jingyu Pen
 
 
 ## Internship
+### Baidu Search 
++ Research on LLM industry-specific AI search, , with a particular emphasis on **Retrieval-Augmented Generation (RAG)** and **Knowledge Distillation**.
+
+
 ### Alibaba-Inc
-+ Conduct research on multimodal recommendation algorithms on [Goofish(闲鱼)](https://www.goofish.com) platform.
-+ Conduct research on holistic modeling methods for product UI in search interfaces.
++ Research on multimodal search algorithms for [Goofish(闲鱼)](https://www.goofish.com) platform.
++ Research on holistic modeling methods for product UI in search interfaces.
 <span style="float:right;">June. 2024 - Sep. 2024</span>
 
 ### Alipay
@@ -77,6 +83,7 @@ Zheng Gong, Guifeng Wang, Ying Sun, Qi Liu, Yuting Ning, Hui Xiong, **Jingyu Pen
 + Responsible for the research of Job Competency Perception Diagnosis.
 + Participate in the construction of dataset.
 <span style="float:right;">May. 2022 - Jul. 2022</span>
+
 
 ## Competitions
 ### U.S. Patent Phrase to Phrase Matching
