@@ -85,6 +85,10 @@ Zheng Gong, Guifeng Wang, Ying Sun, Qi Liu, Yuting Ning, Hui Xiong, **Jingyu Pen
 <span style="float:right;">May. 2022 - Jul. 2022</span>
 
 
+## Service
++ PC Member: WWW 2025, ICANN 2025, CIKM 2025, ARR May 2025
++ Journal Reviewer: Applied Intelligence
+
 ## Competitions
 ### U.S. Patent Phrase to Phrase Matching
 + It's my first time to participate in Kaggle competition. I got a silver medal in [**U.S. Patent Phrase to Phrase Matching**](https://www.kaggle.com/competitions/us-patent-phrase-to-phrase-matching) with my teammate Zheng Gong. The [solution](https://github.com/jypeng28/Kaggle_Patent) is available.
