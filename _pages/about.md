@@ -40,7 +40,7 @@ Logic Jailbreak: Efficiently Unlocking LLM Safety Restrictions Through Formal Lo
 [[PDF]](https://arxiv.org/pdf/2505.13527)
 
 AdaSwitch: Adaptive Switching Generation for Knowledge Distillation \\
-**Jingyu Peng**, Maolin Wang, Hengyi Cai, Yuchen Li, Kai Zhang, Shuaiqiang Wang, Dawei Yin, Xiangyu Zhao  \\
+**Jingyu Peng**, Maolin Wang, Hengyi Cai, Yuchen Li, Kai Zhang, Shuaiqiang Wang, Dawei Yin, Xiangyu Zhao  
 
 
 
