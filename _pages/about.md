@@ -36,7 +36,7 @@ Research areas that I'm interested in (but not limited to) are **Trustworthy Lar
 
 ### Preprint
 Logic Jailbreak: Efficiently Unlocking LLM Safety Restrictions Through Formal Logical Expression \\
-**Jingyu Peng**, Maolin Wang, Nan Wang, Xiangyu Zhao, Jiatong Li, Kai Zhang, Qi Liu \\
+**Jingyu Peng**, Maolin Wang, Nan Wang, Jiatong Li, Yuchen Li, Yuyang Ye, Wanyu Wang, Pengyue Jia, Kai Zhang, Xiangyu Zhao \\
 [[PDF]](https://arxiv.org/pdf/2505.13527)
 
 AdaSwitch: Adaptive Switching Generation for Knowledge Distillation \\
