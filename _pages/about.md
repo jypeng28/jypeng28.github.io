@@ -25,7 +25,7 @@ Research areas that I'm interested in (but not limited to) are **Trustworthy Lar
 
 **Master's in Computer Technology**  
 *School of Computer Science, University of Science and Technology of China (USTC)*  
-<span style="float:right;">Sep. 2022 – July. 2025 (expected)</span>
+<span style="float:right;">Sep. 2022 – July. 2025</span>
 
 **Bachelor's in Computer Science**  
 *School of Computer Science and Information Engineering, Hefei University of Technology (HFUT)*  
@@ -39,8 +39,12 @@ Logic Jailbreak: Efficiently Unlocking LLM Safety Restrictions Through Formal Lo
 **Jingyu Peng**, Maolin Wang, Nan Wang, Xiangyu Zhao, Jiatong Li, Kai Zhang, Qi Liu \\
 [[PDF]](https://arxiv.org/pdf/2505.13527)
 
-### Conferences
+AdaSwitch: Adaptive Switching Generation for Knowledge Distillation \\
+**Jingyu Peng**, Maolin Wang, Hengyi Cai, Yuchen Li, Kai Zhang, Shuaiqiang Wang, Dawei Yin, Xiangyu Zhao  \\
 
+
+
+### Conferences
 
 Stepwise Reasoning Error Disruption Attack of LLMs \\
 **Jingyu Peng**, Maolin Wang, Xiangyu Zhao, Kai Zhang, Wanyu Wang, Pengyue Jia, Qidong Liu, Ruocheng Guo, Qi Liu \\
@@ -65,7 +69,7 @@ Zheng Gong, Guifeng Wang, Ying Sun, Qi Liu, Yuting Ning, Hui Xiong, **Jingyu Pen
 
 ## Internship
 ### Baidu Search 
-+ Research on LLM industry-specific AI search, , with a particular emphasis on **Retrieval-Augmented Generation (RAG)** and **Knowledge Distillation**.
++ Research on LLM industry-specific AI search, with a particular emphasis on **Retrieval-Augmented Generation (RAG)** and **Knowledge Distillation**.
 
 
 ### Alibaba-Inc
@@ -86,7 +90,7 @@ Zheng Gong, Guifeng Wang, Ying Sun, Qi Liu, Yuting Ning, Hui Xiong, **Jingyu Pen
 
 
 ## Service
-+ PC Member: WWW 2025, ICANN 2025, CIKM 2025, ARR May 2025
++ Reviewer: WWW 2025, ICANN 2025, CIKM 2025, ARR May 2025, AAAI 2026
 + Journal Reviewer: Applied Intelligence
 
 ## Competitions
