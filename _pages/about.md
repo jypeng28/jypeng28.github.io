@@ -40,8 +40,11 @@ Logic Jailbreak: Efficiently Unlocking LLM Safety Restrictions Through Formal Lo
 [[PDF]](https://arxiv.org/pdf/2505.13527)
 
 AdaSwitch: Adaptive Switching Generation for Knowledge Distillation \\
-**Jingyu Peng**, Maolin Wang, Hengyi Cai, Yuchen Li, Kai Zhang, Shuaiqiang Wang, Dawei Yin, Xiangyu Zhao  
+**Jingyu Peng**, Maolin Wang, Hengyi Cai, Yuchen Li, Kai Zhang, Shuaiqiang Wang, Dawei Yin, Xiangyu Zhao  \\
+[[PDF]](https://arxiv.org/pdf/2510.07842)
 
+MOSAIC: Composable Safety Alignment with Modular Control Tokens \\
+**Jingyu Peng**, Hongyu Chen, Jiancheng Dong, Maolin Wang, Wenxi Li, Yuchen Li, Kai Zhang, Xiangyu Zhao \\
 
 
 ### Conferences
@@ -69,7 +72,7 @@ Zheng Gong, Guifeng Wang, Ying Sun, Qi Liu, Yuting Ning, Hui Xiong, **Jingyu Pen
 
 ## Internship
 ### Baidu Search 
-+ Research on LLM industry-specific AI search, with a particular emphasis on **Retrieval-Augmented Generation (RAG)** and **Knowledge Distillation**.
++ Research on LLM industry-specific AI search, with a particular emphasis on **Knowledge Distillation**.
 
 
 ### Alibaba-Inc
@@ -90,7 +93,7 @@ Zheng Gong, Guifeng Wang, Ying Sun, Qi Liu, Yuting Ning, Hui Xiong, **Jingyu Pen
 
 
 ## Service
-+ Reviewer: WWW 2025, ICANN 2025, CIKM 2025, ARR May 2025, AAAI 2026
++ Reviewer: WWW 2025, ICANN 2025, CIKM 2025, ARR May,Oct 2025, AAAI 2026
 + Journal Reviewer: Applied Intelligence
 
 ## Competitions
